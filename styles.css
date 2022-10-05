@@ -80,7 +80,7 @@ body {
   --size-800: 4rem;
   --size-900: 5rem;
 
-  --max-width: 500px;
+  --max-width: 600px;
   --padding: 1rem;
 }
 
@@ -208,14 +208,22 @@ p {
 }
 
 .summary > div > h1 {
-  font-size: 2rem;
+  font-size: 2.5rem;
 }
 
 .summary > div > p {
   color: var(--clr-medium-brown);
+  text-align: left;
 }
 
 .summary > div > span {
   font-size: 15px;
   font-weight: var(--fw-bold);
+}
+
+.summary:last-child {
+  text-align: right;
+}
+.summary:first-child {
+  text-align: left;
 }
