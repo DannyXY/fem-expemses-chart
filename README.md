@@ -38,7 +38,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [https://fem-expemses-chart.vercel.app/](https://fem-expemses-chart.vercel.app/)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-page-using-grid-and-flexbox-zy-wFdAmr7](https://www.frontendmentor.io/solutions/responsive-page-using-grid-and-flexbox-zy-wFdAmr7)
 - Live Site URL: [https://fem-expemses-chart.vercel.app/](https://fem-expemses-chart.vercel.app/)
 
 ## My process
