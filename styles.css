@@ -80,7 +80,7 @@ body {
   --size-800: 4rem;
   --size-900: 5rem;
 
-  --max-width: 600px;
+  --max-width: 500px;
   --padding: 1rem;
 }
 
@@ -208,7 +208,7 @@ p {
 }
 
 .summary > div > h1 {
-  font-size: 2.5rem;
+  font-size: 3rem;
 }
 
 .summary > div > p {
