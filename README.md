@@ -38,8 +38,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://fem-expemses-chart.vercel.app/](https://fem-expemses-chart.vercel.app/)
+- Live Site URL: [https://fem-expemses-chart.vercel.app/](https://fem-expemses-chart.vercel.app/)
 
 ## My process
 
